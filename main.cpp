@@ -1,4 +1,4 @@
-//
+﻿//
 //  main.cpp
 //  Opencv-Test
 //
@@ -15,6 +15,8 @@
 #include <vector>
 
 #include "supp.hpp"
+
+// susie test
 
 using namespace cv;
 using namespace std;
