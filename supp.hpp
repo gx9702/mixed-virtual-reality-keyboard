@@ -14,10 +14,10 @@
 #include <opencv2/imgproc/imgproc.hpp>
 #include <iostream>
 #include <queue>
-#include <stdio.h>
-#include <sys/socket.h>
-#include <arpa/inet.h>
-#include <unistd.h>
+//#include <stdio.h>
+//#include <sys/socket.h>
+//#include <arpa/inet.h>
+//#include <unistd.h>
 
 struct trackedCorner{
     std::string mark;

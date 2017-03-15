@@ -22,7 +22,7 @@ using namespace cv;
 using namespace std;
 
 std::queue<std::string> msgQueue;
-
+/*
 #define MSG_LEN 2000
 
 int socketSendData(std::string serverIP){
@@ -66,7 +66,7 @@ int socketSendData(std::string serverIP){
     close(sock);
     return 0;
 }
-
+*/
 
 int main(int argc, char* argv[]){
     //thread socketThread(socketSendData, "127.0.0.1");
@@ -125,7 +125,7 @@ int main(int argc, char* argv[]){
         
         if (biggestContourIdx == -1) {
             cout << "No Contour Found!" << endl;
-            break;
+            continue;
         }
         
         // compute the rotated bounding rect of the biggest contour! (this is the part that does what you want/need)
@@ -159,12 +159,6 @@ int main(int argc, char* argv[]){
         cv::line(drawing, cornersThisFrame[1].corner, cornersThisFrame[2].corner, cv::Scalar(50,205,50), 2, 8 ,0);
         cv::line(drawing, cornersThisFrame[2].corner, cornersThisFrame[3].corner, cv::Scalar(50,205,50), 2, 8 ,0);
         cv::line(drawing, cornersThisFrame[3].corner, cornersThisFrame[0].corner, cv::Scalar(50,205,50), 2, 8 ,0);
-        
-        // if no contour found
-        if(biggestContourIdx < 0){
-            std::cout << "no contour found" << std::endl;
-            return 1;
-        }
         
         imshow("MyVideo", drawing); //show the frame in "MyVideo" window
         
