@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyboard_project", "keyboard_project.csproj", "{0D15CC65-C35B-5E84-FA6A-51EDFFFC3878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyboard_project.Editor", "keyboard_project.Editor.csproj", "{2C3F983E-47C2-805C-6EF0-7ED091110C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D15CC65-C35B-5E84-FA6A-51EDFFFC3878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D15CC65-C35B-5E84-FA6A-51EDFFFC3878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D15CC65-C35B-5E84-FA6A-51EDFFFC3878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D15CC65-C35B-5E84-FA6A-51EDFFFC3878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3F983E-47C2-805C-6EF0-7ED091110C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3F983E-47C2-805C-6EF0-7ED091110C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3F983E-47C2-805C-6EF0-7ED091110C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3F983E-47C2-805C-6EF0-7ED091110C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

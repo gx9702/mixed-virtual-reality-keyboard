@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(165): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(166): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(167): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(199): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(202): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lxxu\documents\visual studio 2015\projects\keyboarddetection\keyboarddetection\main.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  keyboardDetection.vcxproj -> C:\Users\lxxu\documents\visual studio 2015\Projects\keyboardDetection\x64\Debug\keyboardDetection.exe

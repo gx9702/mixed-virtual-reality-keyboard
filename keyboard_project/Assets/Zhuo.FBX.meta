@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 3840c2b3d97d40d41b1772a7f7bec13a
+timeCreated: 1490760274
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Archmodels vol_89_024_1
+    100002: Archmodels vol_89_024_11
+    100004: Archmodels vol_89_024_12
+    100006: Archmodels vol_89_024_13
+    100008: Archmodels vol_89_024_14
+    100010: Archmodels vol_89_024_15
+    100012: Archmodels vol_89_024_16
+    100014: Archmodels vol_89_024_17
+    100016: Archmodels vol_89_024_18
+    100018: Archmodels vol_89_024_19
+    100020: Archmodels vol_89_024_2
+    100022: Archmodels vol_89_024_20
+    100024: Archmodels vol_89_024_21
+    100026: Archmodels vol_89_024_22
+    100028: Archmodels vol_89_024_23
+    100030: Archmodels vol_89_024_24
+    100032: Archmodels vol_89_024_25
+    100034: Archmodels vol_89_024_26
+    100036: Archmodels vol_89_024_27
+    100038: Archmodels vol_89_024_28
+    100040: Archmodels vol_89_024_29
+    100042: Archmodels vol_89_024_3
+    100044: Archmodels vol_89_024_30
+    100046: Archmodels vol_89_024_31
+    100048: Archmodels vol_89_024_32
+    100050: Archmodels vol_89_024_33
+    100052: Archmodels vol_89_024_34
+    100054: Archmodels vol_89_024_35
+    100056: Archmodels vol_89_024_36
+    100058: Archmodels vol_89_024_37
+    100060: Archmodels vol_89_024_38
+    100062: Archmodels vol_89_024_39
+    100064: Archmodels vol_89_024_4
+    100066: Archmodels vol_89_024_40
+    100068: Archmodels vol_89_024_41
+    100070: Archmodels vol_89_024_42
+    100072: Archmodels vol_89_024_43
+    100074: Archmodels vol_89_024_44
+    100076: Archmodels vol_89_024_45
+    100078: Archmodels vol_89_024_46
+    100080: Archmodels vol_89_024_47
+    100082: Archmodels vol_89_024_7
+    100084: Archmodels vol_89_024_8
+    100086: Box001
+    100088: Box002
+    100090: Box003
+    100092: Box004
+    100094: Box005
+    100096: Cylinder001
+    100098: Cylinder002
+    100100: Cylinder003
+    100102: Cylinder004
+    100104: Cylinder005
+    100106: Group001
+    100108: Group002
+    100110: Group003
+    100112: Group004
+    100114: //RootNode
+    100116: "\u684C\u5B50"
+    100118: "\u6905\u5B50"
+    400000: Archmodels vol_89_024_1
+    400002: Archmodels vol_89_024_11
+    400004: Archmodels vol_89_024_12
+    400006: Archmodels vol_89_024_13
+    400008: Archmodels vol_89_024_14
+    400010: Archmodels vol_89_024_15
+    400012: Archmodels vol_89_024_16
+    400014: Archmodels vol_89_024_17
+    400016: Archmodels vol_89_024_18
+    400018: Archmodels vol_89_024_19
+    400020: Archmodels vol_89_024_2
+    400022: Archmodels vol_89_024_20
+    400024: Archmodels vol_89_024_21
+    400026: Archmodels vol_89_024_22
+    400028: Archmodels vol_89_024_23
+    400030: Archmodels vol_89_024_24
+    400032: Archmodels vol_89_024_25
+    400034: Archmodels vol_89_024_26
+    400036: Archmodels vol_89_024_27
+    400038: Archmodels vol_89_024_28
+    400040: Archmodels vol_89_024_29
+    400042: Archmodels vol_89_024_3
+    400044: Archmodels vol_89_024_30
+    400046: Archmodels vol_89_024_31
+    400048: Archmodels vol_89_024_32
+    400050: Archmodels vol_89_024_33
+    400052: Archmodels vol_89_024_34
+    400054: Archmodels vol_89_024_35
+    400056: Archmodels vol_89_024_36
+    400058: Archmodels vol_89_024_37
+    400060: Archmodels vol_89_024_38
+    400062: Archmodels vol_89_024_39
+    400064: Archmodels vol_89_024_4
+    400066: Archmodels vol_89_024_40
+    400068: Archmodels vol_89_024_41
+    400070: Archmodels vol_89_024_42
+    400072: Archmodels vol_89_024_43
+    400074: Archmodels vol_89_024_44
+    400076: Archmodels vol_89_024_45
+    400078: Archmodels vol_89_024_46
+    400080: Archmodels vol_89_024_47
+    400082: Archmodels vol_89_024_7
+    400084: Archmodels vol_89_024_8
+    400086: Box001
+    400088: Box002
+    400090: Box003
+    400092: Box004
+    400094: Box005
+    400096: Cylinder001
+    400098: Cylinder002
+    400100: Cylinder003
+    400102: Cylinder004
+    400104: Cylinder005
+    400106: Group001
+    400108: Group002
+    400110: Group003
+    400112: Group004
+    400114: //RootNode
+    400116: "\u684C\u5B50"
+    400118: "\u6905\u5B50"
+    2300000: Archmodels vol_89_024_1
+    2300002: Archmodels vol_89_024_11
+    2300004: Archmodels vol_89_024_12
+    2300006: Archmodels vol_89_024_13
+    2300008: Archmodels vol_89_024_14
+    2300010: Archmodels vol_89_024_15
+    2300012: Archmodels vol_89_024_16
+    2300014: Archmodels vol_89_024_17
+    2300016: Archmodels vol_89_024_18
+    2300018: Archmodels vol_89_024_19
+    2300020: Archmodels vol_89_024_2
+    2300022: Archmodels vol_89_024_20
+    2300024: Archmodels vol_89_024_21
+    2300026: Archmodels vol_89_024_22
+    2300028: Archmodels vol_89_024_23
+    2300030: Archmodels vol_89_024_24
+    2300032: Archmodels vol_89_024_25
+    2300034: Archmodels vol_89_024_26
+    2300036: Archmodels vol_89_024_27
+    2300038: Archmodels vol_89_024_28
+    2300040: Archmodels vol_89_024_29
+    2300042: Archmodels vol_89_024_3
+    2300044: Archmodels vol_89_024_30
+    2300046: Archmodels vol_89_024_31
+    2300048: Archmodels vol_89_024_32
+    2300050: Archmodels vol_89_024_33
+    2300052: Archmodels vol_89_024_34
+    2300054: Archmodels vol_89_024_35
+    2300056: Archmodels vol_89_024_36
+    2300058: Archmodels vol_89_024_37
+    2300060: Archmodels vol_89_024_38
+    2300062: Archmodels vol_89_024_39
+    2300064: Archmodels vol_89_024_4
+    2300066: Archmodels vol_89_024_40
+    2300068: Archmodels vol_89_024_41
+    2300070: Archmodels vol_89_024_42
+    2300072: Archmodels vol_89_024_43
+    2300074: Archmodels vol_89_024_44
+    2300076: Archmodels vol_89_024_45
+    2300078: Archmodels vol_89_024_46
+    2300080: Archmodels vol_89_024_47
+    2300082: Archmodels vol_89_024_7
+    2300084: Archmodels vol_89_024_8
+    2300086: Box001
+    2300088: Box002
+    2300090: Box003
+    2300092: Box004
+    2300094: Box005
+    2300096: Cylinder001
+    2300098: Cylinder002
+    2300100: Cylinder003
+    2300102: Cylinder004
+    2300104: Cylinder005
+    3300000: Archmodels vol_89_024_1
+    3300002: Archmodels vol_89_024_11
+    3300004: Archmodels vol_89_024_12
+    3300006: Archmodels vol_89_024_13
+    3300008: Archmodels vol_89_024_14
+    3300010: Archmodels vol_89_024_15
+    3300012: Archmodels vol_89_024_16
+    3300014: Archmodels vol_89_024_17
+    3300016: Archmodels vol_89_024_18
+    3300018: Archmodels vol_89_024_19
+    3300020: Archmodels vol_89_024_2
+    3300022: Archmodels vol_89_024_20
+    3300024: Archmodels vol_89_024_21
+    3300026: Archmodels vol_89_024_22
+    3300028: Archmodels vol_89_024_23
+    3300030: Archmodels vol_89_024_24
+    3300032: Archmodels vol_89_024_25
+    3300034: Archmodels vol_89_024_26
+    3300036: Archmodels vol_89_024_27
+    3300038: Archmodels vol_89_024_28
+    3300040: Archmodels vol_89_024_29
+    3300042: Archmodels vol_89_024_3
+    3300044: Archmodels vol_89_024_30
+    3300046: Archmodels vol_89_024_31
+    3300048: Archmodels vol_89_024_32
+    3300050: Archmodels vol_89_024_33
+    3300052: Archmodels vol_89_024_34
+    3300054: Archmodels vol_89_024_35
+    3300056: Archmodels vol_89_024_36
+    3300058: Archmodels vol_89_024_37
+    3300060: Archmodels vol_89_024_38
+    3300062: Archmodels vol_89_024_39
+    3300064: Archmodels vol_89_024_4
+    3300066: Archmodels vol_89_024_40
+    3300068: Archmodels vol_89_024_41
+    3300070: Archmodels vol_89_024_42
+    3300072: Archmodels vol_89_024_43
+    3300074: Archmodels vol_89_024_44
+    3300076: Archmodels vol_89_024_45
+    3300078: Archmodels vol_89_024_46
+    3300080: Archmodels vol_89_024_47
+    3300082: Archmodels vol_89_024_7
+    3300084: Archmodels vol_89_024_8
+    3300086: Box001
+    3300088: Box002
+    3300090: Box003
+    3300092: Box004
+    3300094: Box005
+    3300096: Cylinder001
+    3300098: Cylinder002
+    3300100: Cylinder003
+    3300102: Cylinder004
+    3300104: Cylinder005
+    4300000: Archmodels vol_89_024_1
+    4300002: Archmodels vol_89_024_2
+    4300004: Archmodels vol_89_024_3
+    4300006: Archmodels vol_89_024_4
+    4300008: Archmodels vol_89_024_7
+    4300010: Archmodels vol_89_024_8
+    4300012: Archmodels vol_89_024_11
+    4300014: Archmodels vol_89_024_12
+    4300016: Archmodels vol_89_024_13
+    4300018: Archmodels vol_89_024_14
+    4300020: Archmodels vol_89_024_15
+    4300022: Archmodels vol_89_024_16
+    4300024: Archmodels vol_89_024_17
+    4300026: Archmodels vol_89_024_18
+    4300028: Archmodels vol_89_024_19
+    4300030: Archmodels vol_89_024_20
+    4300032: Archmodels vol_89_024_21
+    4300034: Archmodels vol_89_024_22
+    4300036: Archmodels vol_89_024_23
+    4300038: Archmodels vol_89_024_24
+    4300040: Archmodels vol_89_024_25
+    4300042: Archmodels vol_89_024_26
+    4300044: Archmodels vol_89_024_27
+    4300046: Archmodels vol_89_024_28
+    4300048: Archmodels vol_89_024_29
+    4300050: Archmodels vol_89_024_30
+    4300052: Archmodels vol_89_024_31
+    4300054: Archmodels vol_89_024_32
+    4300056: Archmodels vol_89_024_33
+    4300058: Archmodels vol_89_024_34
+    4300060: Archmodels vol_89_024_35
+    4300062: Archmodels vol_89_024_36
+    4300064: Archmodels vol_89_024_37
+    4300066: Archmodels vol_89_024_38
+    4300068: Archmodels vol_89_024_39
+    4300070: Archmodels vol_89_024_40
+    4300072: Archmodels vol_89_024_41
+    4300074: Archmodels vol_89_024_42
+    4300076: Archmodels vol_89_024_43
+    4300078: Archmodels vol_89_024_44
+    4300080: Archmodels vol_89_024_45
+    4300082: Archmodels vol_89_024_46
+    4300084: Archmodels vol_89_024_47
+    4300086: Box001
+    4300088: Cylinder001
+    4300090: Box002
+    4300092: Box003
+    4300094: Cylinder002
+    4300096: Cylinder003
+    4300098: Box004
+    4300100: Cylinder004
+    4300102: Box005
+    4300104: Cylinder005
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
